@@ -18,7 +18,8 @@
 ```
 source <(curl -L https://github.com/trojanpanel/install-script/raw/main/install_script.sh)
 ```
-
+- نام کاربری پیشفرض: sysadmin
+- - رنز پیشفرض : 123456
 
 # Enjoy!
 
