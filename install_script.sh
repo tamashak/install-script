@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
-
+ 
 # System Required: CentOS 7+/Ubuntu 18+/Debian 10+
 # Version: v2.1.3
 # Description: One click Install Trojan Panel server
