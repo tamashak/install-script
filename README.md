@@ -31,7 +31,7 @@ source <(curl -L https://github.com/trojanpanel/install-script/raw/main/install_
 # Community
 
 - Telegram Channel: [t.me/P_tech2024](https://t.me/P_tech2024)
-
+ 
 # Thanks
 
 - [trojan](https://github.com/trojan-gfw/trojan)
