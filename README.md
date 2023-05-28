@@ -16,7 +16,7 @@
 - لینک نصب
 
 ```
-source <(curl -L https://github.com/trojanpanel/install-script/raw/main/install_script.sh)
+source <(curl -L https://github.com/Ptechgithub/install-script/raw/main/install_script.sh)
 ```
 - نام کاربری پیشفرض: sysadmin
 - رمز پیشفرض : 123456
