@@ -23,7 +23,7 @@ source <(curl -L https://github.com/Ptechgithub/install-script/raw/main/install_
 - پورت پیشفرض : 2083
 # Enjoy!
 
-![Trojan Panel](https://user-images.githubusercontent.com/46235235/173869031-c410e895-4299-46bf-bb7c-0434498fa2e2.png)
+![Trojan panel](https://github.com/Ptechgithub/install-script/blob/main/media/1.jpg)
 
 # Features
 
