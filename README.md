@@ -20,7 +20,7 @@ source <(curl -L https://github.com/Ptechgithub/install-script/raw/main/install_
 ```
 - نام کاربری پیشفرض: sysadmin
 - رمز پیشفرض : 123456
-
+- پورت پیشفرض : 2083
 # Enjoy!
 
 ![Trojan Panel](https://user-images.githubusercontent.com/46235235/173869031-c410e895-4299-46bf-bb7c-0434498fa2e2.png)
