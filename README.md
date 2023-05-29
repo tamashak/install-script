@@ -24,7 +24,7 @@ source <(curl -L https://github.com/Ptechgithub/install-script/raw/main/install_
 # Enjoy!
 
 ![Trojan panel](https://github.com/Ptechgithub/install-script/blob/main/media/1.jpg)
-[2](https://github.com/Ptechgithub/install-script/blob/main/media/1.jpg)
+[2](https://github.com/Ptechgithub/install-script/blob/main/media/2.jpg)
 
 # Features
 
