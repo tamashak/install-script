@@ -40,8 +40,6 @@ source <(curl -L https://github.com/Ptechgithub/install-script/raw/main/install_
 - [Xray-core](https://github.com/XTLS/Xray-core)
 - [hysteria](https://github.com/HyNetwork/hysteria)
 - [naiveproxy](https://github.com/klzgrad/naiveproxy)
-- و باشکر از خانواده ی ق قنبری
-
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/trojanpanel/install-script.svg)](https://github.com/trojanpanel/install-script)
