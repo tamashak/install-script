@@ -43,4 +43,4 @@ source <(curl -L https://github.com/Ptechgithub/install-script/raw/main/install_
 - [naiveproxy](https://github.com/klzgrad/naiveproxy)
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/Ptechgithub/install-script.svg)](https://github.com/trojanpanel/install-script)
+[![Stargazers over time](https://starchart.cc/Ptechgithub/install-script.svg)](https://github.com/Ptechgithub/install-script)
