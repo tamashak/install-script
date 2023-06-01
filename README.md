@@ -26,9 +26,9 @@ source <(curl -L https://github.com/Ptechgithub/install-script/raw/main/install_
 ![Trojan panel](https://github.com/Ptechgithub/install-script/blob/main/media/1.jpg)
 ![2](https://github.com/Ptechgithub/install-script/blob/main/media/2.jpg)
 
-# Features
+# آموزش در کانال یوتیوب
 
-[tutorial](https://www.youtube.com/watch?v=ErhnjIc_evY)
+[آموزش](https://www.youtube.com/watch?v=ErhnjIc_evY)
 
 # Community
 
