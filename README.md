@@ -28,7 +28,7 @@ source <(curl -L https://github.com/Ptechgithub/install-script/raw/main/install_
 
 # Features
 
-[tutorial](https://trojanpanel.github.io/tutorial/using-tutorials.html)
+[tutorial](https://www.youtube.com/watch?v=ErhnjIc_evY)
 
 # Community
 
