@@ -14,6 +14,7 @@
 # نصب سریع
 
 - لینک نصب
+- # ورژن 2.1.4
 
 ```
 source <(curl -L https://github.com/Ptechgithub/install-script/raw/main/install_script.sh)
