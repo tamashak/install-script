@@ -18,6 +18,13 @@
 ```
 source <(curl -L https://github.com/Ptechgithub/install-script/raw/main/install_script.sh)
 ```
+
+
+#  اپدیت --> دانلود ورژن 2.1.5 
+```
+
+source <(curl -L https://github.com/Ptechgithub/install-script/raw/main/install_script2.1.5.sh)
+```
 - نام کاربری پیشفرض: sysadmin
 - رمز پیشفرض : 123456
 - پورت پیشفرض : 2083
