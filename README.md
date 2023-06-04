@@ -21,7 +21,7 @@ source <(curl -L https://github.com/Ptechgithub/install-script/raw/main/install_
 ```
 
 
-#  اپدیت --> دانلود ورژن 2.1.5 
+#  اپدیت --> ورژن 2.1.5 
 ```
 
 source <(curl -L https://github.com/Ptechgithub/install-script/raw/main/install_script2.1.5.sh)
