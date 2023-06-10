@@ -14,18 +14,13 @@
 # نصب سریع
 
 - لینک نصب
-- # ورژن 2.1.4
+- # ورژن 2.1.6
 
 ```
 source <(curl -L https://github.com/Ptechgithub/install-script/raw/main/install_script.sh)
 ```
 
-
-#  اپدیت --> ورژن 2.1.5 
-```
-source <(curl -L https://github.com/Ptechgithub/install-script/raw/main/install_script2.1.5.sh)
-```
-- پس از اجرای ورژن 2.1.5 هر سه گزینه ی 1 تا 3 را نصب کنید.
+- پس از اجرای ورژن 2.1.6 هر سه گزینه ی 1 تا 3 را نصب کنید.
 
 - نام کاربری پیشفرض: sysadmin
 - رمز پیشفرض : 123456
